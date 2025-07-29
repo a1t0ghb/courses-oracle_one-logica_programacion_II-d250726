@@ -1,12 +1,35 @@
-> ℹ This README:
-> - Is **mainly** written in english (en), but it might have some sections in spanish (sp), since course content is in spanish.
-> - Was created via web-browser GUI, not uploding w/ Git.
+<!-- Badges:
+- Source: 'https://shields.io/docs/static-badges', 'https://shields.io/badges/static-badge'.
+- HTML structure followed: 'https://github.com/facebook/docusaurus/blob/main/README.md?plain=1'.
+- Badges with logos: 'https://shields.io/docs/logos', 'https://simpleicons.org/', 'https://github.com/simple-icons/simple-icons/blob/master/slugs.md'.
+-->
+<p align="left">
+  <a href="https://github.com/a1t0ghb/courses-oracle_one-logica_programacion_II-d250726/"><img src="https://img.shields.io/badge/STATUS-DONE-green?style=flat"/></a>
+</p>
 
-# 🌐 Public URL of Deployment (using GitHub Pages).
-'<https://a1t0ghb.github.io/courses-oracle_one-logica_programacion_II-d250726/>'.
+<!-- README structure followed:
+- 'https://www.aluracursos.com/blog/como-escribir-un-readme-increible-en-tu-github/'.
+- 'https://github.com/camilafernanda/GlicoCare/'.
+- 'https://github.com/nasa/openmct/'.
+- 'https://github.com/facebook/docusaurus'.
+-->
+# Basic JavaScript Game: (en) 'Secret Number Game' / (sp) 'Juego Número Secreto'.
+
+<p align="center">
+  🌐 '<a href="https://a1t0ghb.github.io/courses-oracle_one-logica_programacion_II-d250726">https://a1t0ghb.github.io/courses-oracle_one-logica_programacion_II-d250726</a>'
+</p>
+
+Final delivery of the 2nd course: '[Lógica de programación: explorar funciones y listas](https://app.aluracursos.com/course/logica-programacion-explorar-funciones-listas)', from module (a.k.a. 'formación' in spanish) '[Principiante en Programación G9 - ONE](https://app.aluracursos.com/formacion-programacion-primeros-pasos-grupo9-one)', of [Alura LATAM](https://www.aluracursos.com/). <b>Part of [ORACLE Next Education (ONE)](https://www.oracle.com/co/education/oracle-next-education/) education program, in LATAM</b>.
+
+<!-- Callouts:
+- Improved format taken from examples in 'https://github.com/nasa/openmct/blob/master/README.md?plain=1'.
+-->
+> [!NOTE]
+> This README:
+> - Is **mainly** written in english (en), but it might have some sections in spanish (sp), since course content is in spanish.
+> - Was created via web-browser GUI, not uploading a README.md locally via Git.
 
 # About.
-- This is the final delivery of the Course: '[Lógica de programación: explorar funciones y listas](https://app.aluracursos.com/course/logica-programacion-explorar-funciones-listas)', from Module (a.k.a. 'formación' in spanish) '[Principiante en Programación G9 - ONE](https://app.aluracursos.com/formacion-programacion-primeros-pasos-grupo9-one)', of [Alura LATAM](https://www.aluracursos.com/). <b>Part of [ORACLE Next Education (ONE)](https://www.oracle.com/co/education/oracle-next-education/) education program, in LATAM</b>.
 - The course covered topics such as:
   - Basics of web development: HTML files (e.g. as `index.html`) and tags, CSS files (e.g. `style.css`), and JavaScript files (e.g. `app.js`).
   - Basic HTML tags: `<h1>`, `<p>`.
@@ -21,7 +44,7 @@
     - Use of arrays; e.g. `listaNumerosSorteados.push(numeroGenerado);`
     - Use if recursion in functions.
 
-## 🥇 Certificate of Completion.
+## 🥇 Course Certificate of Completion.
 Available at '<https://app.aluracursos.com/certificate/9a47e8e1-2bce-42d0-b9b0-612483a878d0>'.
 - Estimated workload: 8h.
 - Activities: 44.
@@ -43,9 +66,10 @@ Available at '<https://app.aluracursos.com/certificate/9a47e8e1-2bce-42d0-b9b0-6
 **COURSE RESOURCES.**
 - GitHub's project repository: '<https://github.com/alura-es-cursos/2035-logica-programacion-2>'.
 
-# Steps for Publishing Project on GitHub, and Deploying on GitHub Pages.
+# Steps for Publishing Project on GitHub, and Deploying Public URL on GitHub Pages.
 
-> ℹ This section is only for reference, for documentation purposes in case of re-visiting procedure of publishing project.
+> [!NOTE]
+> This section is only for reference, for documentation purposes in case of re-visiting procedure of publishing project.
 
 ## Upload project files to new GitHub repository.
 
@@ -57,7 +81,8 @@ Available at '<https://app.aluracursos.com/certificate/9a47e8e1-2bce-42d0-b9b0-6
   - Description: '2nd course project of JavaScript, focused on basics, from module 'Principiante en Programación', of ONE - ORACLE Next Education program.'.
   - Set visibility as 'Public'. ⚠ NOTE: this is **REQUIRED**, if you want to deploy and publish using GitHub Pages.
 
-> ℹ After creating repo., it will create a URL to access it in the format `https://github.com/<username>/<repo_name>`; e.g. '<https://github.com/a1t0ghb/courses-oracle_one-logica_programacion_II-d250726>'.
+> [!NOTE]
+> After creating repo., it will create a URL to access it in the format `https://github.com/<username>/<repo_name>`; e.g. '<https://github.com/a1t0ghb/courses-oracle_one-logica_programacion_II-d250726>'.
 
 **UPLOAD PROJECT FILES AND FOLDERS.**
 - GOTO Project's Home > 'Add file' > 'Upload files' (also accessible via URL; e.g. '<https://github.com/a1t0ghb/courses-oracle_one-logica_programacion_II-d250726/upload>'). You'll be prompted to create a **COMMIT** for uploading files.
@@ -68,9 +93,10 @@ Available at '<https://app.aluracursos.com/certificate/9a47e8e1-2bce-42d0-b9b0-6
   - Commit description: [optional].
 - Commit changes, and wait for upload.
 
-## Deploy and Publish using GitHub Pages.
+## Deploy and Publish Public URL using GitHub Pages.
 
-> ⚠ 'GitHub Pages' is a **STATIC site hosting service**, included in GitHub's free plan for **PUBLIC repos.**; it takes HTML, CSS and JavaScript files **straight** from a GitHub's repo., *optionally* runs files through a Jekyll build using GitHub Actions, and publishes a website. Ref. '<https://docs.github.com/en/pages/getting-started-with-github-pages/what-is-github-pages#about-github-pages>'.
+> [!IMPORTANT]
+> 'GitHub Pages' is a **STATIC site hosting service**, included in GitHub's free plan for **PUBLIC repos.**; it takes HTML, CSS and JavaScript files **straight** from a GitHub's repo., *optionally* runs files through a Jekyll build using GitHub Actions, and publishes a website. Ref. '<https://docs.github.com/en/pages/getting-started-with-github-pages/what-is-github-pages#about-github-pages>'.
 
 - GOTO Project's Home > 'Settings' > 'Code an automation' > 'Pages'.
 - Set settings of 'Build and deployment':
@@ -79,7 +105,8 @@ Available at '<https://app.aluracursos.com/certificate/9a47e8e1-2bce-42d0-b9b0-6
 - Click 'Save', and *wait for some minutes* for URL to be created.
 - You can validate the **deployment status** on Project's Home > Right-bar > 'Deployments'. **Usually called 'github-pages'**.
 
-> ℹ After waiting some minutes for the deployment, refresh `<F5>` the page, and it will create a URL to access the project in the format `https://<username>.github.io/<repo_name>`; e.g. '<https://a1t0ghb.github.io/courses-oracle_one-logica_programacion_II-d250726/>'.
+> [!NOTE]
+> After waiting some minutes for the deployment, refresh `<F5>` the page, and it will create a URL to access the project in the format `https://<username>.github.io/<repo_name>`; e.g. '<https://a1t0ghb.github.io/courses-oracle_one-logica_programacion_II-d250726/>'.
 
 ### Limitations and some notes on GitHub Pages.
 
@@ -91,4 +118,24 @@ Available at '<https://app.aluracursos.com/certificate/9a47e8e1-2bce-42d0-b9b0-6
   - Be at the TOP LEVEL of the source folder, of the source branch; e.g. in `main` branch: `/docs/index.html`, if publishing source is 'docs' folder.
 - You can have MAXIMUM only 1 pages site per repo.; i.e. 1 public URL per repo (regardless of branches). Ref. '<https://docs.github.com/en/pages/getting-started-with-github-pages/what-is-github-pages#types-of-github-pages-sites>'
   - But you can add more pages to your site by creating them; e.g. in `main` branch: `/about/contact-us.html` file, will be available at `https://<username>.github.io/<repo_name>/about/contact-us.html`. Ref. '<https://docs.github.com/en/pages/getting-started-with-github-pages/creating-a-github-pages-site#next-steps>'.
-  
+
+<!-- Embed dynamic content (image) of contributors:
+- 'https://dev.to/lacolaco/introducing-contributors-img-keep-contributors-in-readme-md-gci'.
+- 'https://contrib.rocks/'.
+- 'https://contrib.rocks/preview?repo=a1t0ghb%2Fcourses-oracle_one-logica_programacion_II-d250726'
+-->
+# Contributors.
+
+<a href="https://github.com/a1t0ghb/courses-oracle_one-logica_programacion_II-d250726/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=a1t0ghb/courses-oracle_one-logica_programacion_II-d250726"/>
+</a>
+
+Made with [contrib.rocks](https://contrib.rocks).
+
+<!-- Authors table structure
+- From repo: 'https://github.com/camilafernanda/GlicoCare/blob/main/README.md?plain=1'.
+-->
+# Authors.
+
+| [<img src="https://avatars.githubusercontent.com/u/32377614?v=4" width=70><br><sub>a1t0ghb</sub>](https://github.com/a1t0ghb) |
+| :---: |
