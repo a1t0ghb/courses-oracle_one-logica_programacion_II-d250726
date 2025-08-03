@@ -4,7 +4,7 @@
 - Badges with logos: 'https://shields.io/docs/logos', 'https://simpleicons.org/', 'https://github.com/simple-icons/simple-icons/blob/master/slugs.md'.
 -->
 <p align="left">
-  <a href="https://github.com/a1t0ghb/courses-oracle_one-logica_programacion_II-d250726/"><img src="https://img.shields.io/badge/STATUS-DONE-green?style=flat"/></a>
+  <a href="#" onclick="return false;"><img src="https://img.shields.io/badge/STATUS-DONE-green?style=flat"/></a>
 </p>
 
 <!-- README structure followed:
