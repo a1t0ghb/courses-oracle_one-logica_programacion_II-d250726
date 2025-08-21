@@ -30,7 +30,7 @@ Final delivery of the 2nd course: '[Lógica de programación: explorar funciones
 > - Is **mainly** written in english (en), but it might have some sections in spanish (sp), since course content is in spanish.
 > - Was created via web-browser GUI, not uploading a README.md locally via Git.
 
-# About.
+# ℹ About.
 - The course covered topics such as:
   - Basics of web development: HTML files (e.g. as `index.html`) and tags, CSS files (e.g. `style.css`), and JavaScript files (e.g. `app.js`).
   - Basic HTML tags: `<h1>`, `<p>`.
@@ -56,7 +56,7 @@ Available at '<https://app.aluracursos.com/certificate/9a47e8e1-2bce-42d0-b9b0-6
   4. 'Listas'.
   5. 'Publicando el proyecto'.
 
-## Links to program resources.
+## 🔗 Links to program resources.
 
 **PROGRAM STRUCTURE.**
 - <b>*[Course]* 'Lógica de programación: explorar funciones y listas'</b>: '<https://app.aluracursos.com/course/logica-programacion-explorar-funciones-listas>'.
@@ -67,7 +67,7 @@ Available at '<https://app.aluracursos.com/certificate/9a47e8e1-2bce-42d0-b9b0-6
 **COURSE RESOURCES.**
 - GitHub's project repository: '<https://github.com/alura-es-cursos/2035-logica-programacion-2>'.
 
-# Steps for Publishing Project on GitHub, and Deploying Public URL on GitHub Pages.
+# 🐾 Steps for Publishing Project on GitHub, and Deploying Public URL on GitHub Pages.
 
 > [!NOTE]
 > This section is only for reference, for documentation purposes in case of re-visiting procedure of publishing project.
@@ -125,7 +125,7 @@ Available at '<https://app.aluracursos.com/certificate/9a47e8e1-2bce-42d0-b9b0-6
 - 'https://contrib.rocks/'.
 - 'https://contrib.rocks/preview?repo=a1t0ghb%2Fcourses-oracle_one-logica_programacion_II-d250726'
 -->
-# Contributors.
+# 🤝 Contributors.
 
 <a href="https://github.com/a1t0ghb/courses-oracle_one-logica_programacion_II-d250726/graphs/contributors">
   <img src="https://contrib.rocks/image?repo=a1t0ghb/courses-oracle_one-logica_programacion_II-d250726"/>
@@ -136,7 +136,7 @@ Made with [contrib.rocks](https://contrib.rocks).
 <!-- Authors table structure
 - From repo: 'https://github.com/camilafernanda/GlicoCare/blob/main/README.md?plain=1'.
 -->
-# Authors.
+# 📜 Authors.
 
 | [<img src="https://avatars.githubusercontent.com/u/32377614?v=4" width=70><br><sub>a1t0ghb</sub>](https://github.com/a1t0ghb) |
 | :---: |
