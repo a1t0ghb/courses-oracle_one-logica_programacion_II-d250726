@@ -31,21 +31,23 @@ Final delivery of the 2nd course: '[Lógica de programación: explorar funciones
 > - Was created via web-browser GUI, not uploading a README.md locally via Git.
 
 # ℹ About.
-- The course covered topics such as:
-  - Basics of web development: HTML files (e.g. as `index.html`) and tags, CSS files (e.g. `style.css`), and JavaScript files (e.g. `app.js`).
-  - Basic HTML tags: `<h1>`, `<p>`.
-  - Basics of JavaScript language:
-    - Document Object Model (DOM) connectors; e.g. functions such as `document.querySelector(...);`.
-    - HTML events linking to JavaScript functions; e.g. `<button onclick="intentoDeUsuario();" class="container__boton">Intentar</button>`.
-    - Debugging logs; e.g. `console.log(intentos);`.
-    - Variables definition; e.g. `let numeroGenerado = Math.floor(Math.random()*((numeroMaximoPosible - numeroMinimoPosible) + 1) + numeroMinimoPosible);`.
-    - Functions definition; e.g. `function limpiarCaja() {document.querySelector('#valorUsuario').value = '';}`
-    - If-else statements; e.g. `if (...) {...} else {...}`.
-    - String templates; e.g. `Acertaste el número en ${intentos} ${(intentos === 1) ? 'vez' : 'veces'}.`.
-    - Use of arrays; e.g. `listaNumerosSorteados.push(numeroGenerado);`
-    - Use if recursion in functions.
+
+The course covered topics such as:
+- Basics of web development: HTML files (e.g. as `index.html`) and tags, CSS files (e.g. `style.css`), and JavaScript files (e.g. `app.js`).
+- Basic HTML tags: `<h1>`, `<p>`.
+- Basics of JavaScript language:
+  - Document Object Model (DOM) connectors; e.g. functions such as `document.querySelector(...);`.
+  - HTML events linking to JavaScript functions; e.g. `<button onclick="intentoDeUsuario();" class="container__boton">Intentar</button>`.
+  - Debugging logs; e.g. `console.log(intentos);`.
+  - Variables definition; e.g. `let numeroGenerado = Math.floor(Math.random()*((numeroMaximoPosible - numeroMinimoPosible) + 1) + numeroMinimoPosible);`.
+  - Functions definition; e.g. `function limpiarCaja() {document.querySelector('#valorUsuario').value = '';}`
+  - If-else statements; e.g. `if (...) {...} else {...}`.
+  - String templates; e.g. `Acertaste el número en ${intentos} ${(intentos === 1) ? 'vez' : 'veces'}.`.
+  - Use of arrays; e.g. `listaNumerosSorteados.push(numeroGenerado);`
+  - Use if recursion in functions.
 
 ## 🥇 Course Certificate of Completion.
+
 Available at '<https://app.aluracursos.com/certificate/9a47e8e1-2bce-42d0-b9b0-612483a878d0>'.
 - Estimated workload: 8h.
 - Activities: 44.
